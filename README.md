@@ -8,7 +8,7 @@ With innovative approaches and advanced methodologies, Vecta Corporation provide
 
 Vecta's approach stems from the three most important business growth aspects: helping companies reach prospects, assist in converting prospects to customers, and assist in retaining those customers. This is accomplished through interactive solutions and expertise in providing a memorable and positive user experience.
 
-Vecta's Solutions 
+## Vecta's Solutions 
 
 1. _**vProspect 2.0**_ - Define and research your target audience, define your strategy to reach that audience and present a strong and memorable brand to that audience.
 
